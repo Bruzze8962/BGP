@@ -14,4 +14,4 @@
 * BGP is great for scalability, it updates if triggered but it relies heavily on policy and filtering. 
 
 <img width="1512" alt="Image" src="https://github.com/user-attachments/assets/2d1cf3f1-0aca-44ca-899b-0c4ddd6bd90f" />
-![Image](https://github.com/user-attachments/assets/77bca1d7-6ecb-4911-8845-0ff623f9f79f)
+
