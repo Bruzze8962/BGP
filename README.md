@@ -13,3 +13,4 @@
 * Ping SPR1 for desired connectivity 
 * BGP is great for scalability, it updates if triggered but it relies heavily on policy and filtering. 
 
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/2d1cf3f1-0aca-44ca-899b-0c4ddd6bd90f" />
